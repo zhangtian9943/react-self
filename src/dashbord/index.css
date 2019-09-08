@@ -1,0 +1,16 @@
+.dashbord {
+  font-size: 15px
+}
+.title {
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  /* color: blue */
+}
+.title-single {
+  flex: 1;
+  text-align: center;
+  color: blue
+}
